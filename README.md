@@ -10,4 +10,5 @@ When it's time for the alarm to go off (alarm.txt time == local time), the alarm
 
 
 Press [Space] to turn alarm off
+
 Press [Backspace] to force alarm to go off
