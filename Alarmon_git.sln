@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alarmon_git", "Alarmon_git\Alarmon_git.vcproj", "{6FD220A1-EB23-47CE-93FF-9923D8D4D11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FD220A1-EB23-47CE-93FF-9923D8D4D11D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FD220A1-EB23-47CE-93FF-9923D8D4D11D}.Debug|Win32.Build.0 = Debug|Win32
+		{6FD220A1-EB23-47CE-93FF-9923D8D4D11D}.Release|Win32.ActiveCfg = Release|Win32
+		{6FD220A1-EB23-47CE-93FF-9923D8D4D11D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
